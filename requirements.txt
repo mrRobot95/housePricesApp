@@ -3,5 +3,4 @@ matplotlib==3.5.2
 numpy==1.23.0
 pandas==1.4.3
 requests==2.28.0
-sklearn==1.1.1
 streamlit==1.12.2
