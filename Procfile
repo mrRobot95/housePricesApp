@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Lending_club_app.py
+web: sh setup.sh && streamlit run houseV2.py
