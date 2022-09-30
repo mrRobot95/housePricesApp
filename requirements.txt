@@ -1,3 +1,7 @@
-numpy==1.9.0
-pandas==1.1.3
+Flask==2.1.2
+matplotlib==3.5.2
+numpy==1.23.0
+pandas==1.4.3
+requests==2.28.0
+sickit_learn==1.1.1
 streamlit==1.12.2
