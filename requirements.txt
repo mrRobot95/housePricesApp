@@ -1,7 +1,4 @@
-Flask
-matplotlib
+pandas
 numpy
 scikit_learn
-pandas
 streamlit
-requests
